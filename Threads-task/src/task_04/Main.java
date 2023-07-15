@@ -6,7 +6,7 @@ public class Main {
 
         Fruits fruits = new Fruits();
         fruits.start();
-        fruits.stop();
+        fruits.interrupt();
 
         showVeges(getVeges());
     }

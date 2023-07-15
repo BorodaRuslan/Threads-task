@@ -1,10 +1,8 @@
 package task_01;
 
-import javax.swing.*;
+
 
 public class Main {
-
-    static String name;
 
     public static void main(String[] args) {
 
